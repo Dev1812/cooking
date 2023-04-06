@@ -20,7 +20,7 @@ require SITE_ROOT.'/resources/views/tpl/head.tpl.php';
 
 
 <style type="text/css">
-*{font-family: 'Hind Siliguri', sans-serif;font-size:.98em;box-sizing: border-box;}
+*{    font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Verdana, sans-serif;font-size:.98em;box-sizing: border-box;}
 .reg_content{margin:74px 0;}
 </style>
 
