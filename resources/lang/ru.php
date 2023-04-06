@@ -1,8 +1,8 @@
-<?php
-
-
-return [
-    'welcome' => 'Welcome to our application!',
-];
-
+<?php
+
+
+return [
+    'welcome' => 'Welcome to our application!',
+];
+
 ?>
